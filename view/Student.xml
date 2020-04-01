@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><student>
+    <person id="1">
+        <nume>Vasile Ion</nume>
+        <grupa>221</grupa>
+    </person>
+    <person id="2">
+        <nume>Patracescu Paul</nume>
+        <grupa>226</grupa>
+    </person>
+    <person id="3">
+        <nume>Ion</nume>
+        <grupa>221</grupa>
+    </person>
+    <person id="4">
+        <nume>Stancu Maria</nume>
+        <grupa>221</grupa>
+    </person>
+    
+
+
+    
+
+
+
+    <person id="6"><nume>ghbj</nume><grupa>122</grupa></person>
+    <person id="7"><nume>Punga Alexandru</nume><grupa>221</grupa></person>
+    <person id="8"><nume>Alext</nume><grupa>225</grupa></person>
+    <person id="9"><nume>Bogdan</nume><grupa>234</grupa></person>
+<person id="16"><nume>Alex</nume><grupa>223</grupa></person></student>

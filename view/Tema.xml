@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><curs>
+    <tema id="1">
+        <sem>1</sem>
+        <durata>2</durata>
+        <start_date>2019-10-20</start_date>
+        <descriere>sortare</descriere>
+    </tema>
+    <tema id="2">
+        <sem>1</sem>
+        <durata>1</durata>
+        <start_date>2019-11-11</start_date>
+        <descriere>adaugare</descriere>
+    </tema>
+    <tema id="3">
+        <sem>1</sem>
+        <durata>3</durata>
+        <start_date>2019-10-29</start_date>
+        <descriere>sterge</descriere>
+    </tema>
+    <tema id="4">
+        <sem>1</sem>
+        <durata>2</durata>
+        <start_date>2019-11-01</start_date>
+        <descriere>update</descriere>
+    </tema>
+</curs>

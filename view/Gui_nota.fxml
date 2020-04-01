@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane   fx:controller="controler.Gui_nota" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="435.0" prefWidth="657.0" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml">
+    <children>
+        <SplitPane dividerPositions="0.7114503816793893" layoutY="-3.0" prefHeight="441.0" prefWidth="657.0">
+            <items>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="439.0" prefWidth="545.0">
+                    <children>
+                        <TableView layoutY="2.0" prefHeight="441.0" prefWidth="452.0">
+                            <columns>
+                                <TableColumn fx:id="tableColumnId" prefWidth="75.0" text="C1" />
+                                <TableColumn prefWidth="87.0" text="C2" />
+                            </columns>
+                        </TableView>
+                    </children>
+                </AnchorPane>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="439.0" prefWidth="163.0">
+                    <children>
+                        <Label layoutX="43.0" layoutY="53.0" prefHeight="26.0" prefWidth="49.0" text="Operatii" />
+                        <Button layoutX="42.0" layoutY="124.0" mnemonicParsing="false" text="Add" />
+                        <Button layoutX="42.0" layoutY="181.0" mnemonicParsing="false" text="Update" />
+                        <Button layoutX="42.0" layoutY="242.0" mnemonicParsing="false" text="Delete" />
+                    </children>
+                </AnchorPane>
+            </items>
+        </SplitPane>
+    </children>
+</AnchorPane>

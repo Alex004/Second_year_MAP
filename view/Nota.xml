@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><note_list>
+    <notare id_student="1" id_tema="1">
+        <nota>8.0</nota>
+        <data>2019-11-04</data>
+        <intarziere>1</intarziere>
+        <profesor>Constantinescu</profesor>
+        <feedback>Mai multa atentie</feedback>
+    </notare>
+    <notare id_student="1" id_tema="2">
+        <nota>9.0</nota>
+        <data>2019-11-15</data>
+        <intarziere>0</intarziere>
+        <profesor>Apietroaei</profesor>
+        <feedback>Interesanta metoda de a lucra</feedback>
+    </notare>
+    <notare id_student="3" id_tema="4">
+        <nota>3.0</nota>
+        <data>2019-11-16</data>
+        <intarziere>1</intarziere>
+        <profesor>Valciu</profesor>
+        <feedback>Nu mai copia teme</feedback>
+    </notare>
+</note_list>
